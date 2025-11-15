@@ -1,7 +1,6 @@
 {
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs";
-    flake-parts.url = "github:hercules-ci/flake-parts";
   };
 
   outputs =
